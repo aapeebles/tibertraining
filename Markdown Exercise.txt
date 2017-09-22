@@ -1,0 +1,100 @@
+Writing in Markdown is not that hard!
+I will complete these lessons!
+
+"Of course," she whispered. Then, she shouted: "All I need is a little moxie!"
+
+If you're thinking to yourself, This is unbelievable, you'd probably be right.
+
+
+Header one
+Header two
+Header three
+Header four
+Header five
+Header six
+
+Colombian Symbolism in One Hundred Years of Solitude
+
+Here's some words about the book One Hundred Years....
+
+And we used an example of how to print code in a markown cell for an example
+
+Type print('Hello, world!') say hello.
+
+Here we used direct web links
+
+Have a question?
+[Search for it.](  ) www.google.com
+
+You're really, really going to want to see this (www.dailykitten.com)
+
+The Latest News from the BBC www.bbc.com/news
+
+
+
+Here we used referenced web links
+
+
+Do you want to [see something fun][a fun place]?
+
+Well, do I have [the website for you][]!
+
+[a fun place]: 
+[another fun place]: 
+
+
+www.zombo.com
+www.stumbleupon.com
+
+
+
+We used direct image link for Octdry
+
+![A representation of Octdrey Catburn]()
+
+http://octodex.github.com/images/octdrey-catburn.jpg
+
+And Reference Links for the Founding Fathers
+
+[The first father][]
+
+[The second first father][Second Father]
+
+[first father]:http://octodex.github.com/images/founding-father.jpg
+[]:
+
+
+http://octodex.github.com/images/foundingfather_v2.png
+
+I read this interesting quote the other day:
+
+"Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
+Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo...
+
+His father told him that story: his father looked at him through a glass: he had a hairy face.
+
+He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt.
+
+What the world needs now is:
+
+Love
+Sweet love
+
+It's the only thing that there's just too little of
+
+Functions are neat even if I don't know what this one does:
+
+F(k) = \int_{-\infty}^{\infty} f(x) e^{2\pi i k} dx'))
+
+
+
+
+
+
+
+
+
+
+
+
+
