@@ -1,0 +1,12 @@
+Jupyter Training for Tibernauts
+September 22, 2017
+Trainer: Alison Peebles
+
+Most of my content came from other sources.
+There is so much out there!
+
+http://nbviewer.jupyter.org/github/jvns/pandas-cookbook/tree/v0.1/
+https://jupyter.brynmawr.edu/services/public/dblank/Jupyter%20Notebook%20Users%20Manual.ipynb
+https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.aad09D0
+https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
+https://www.markdowntutorial.com/
